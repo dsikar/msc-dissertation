@@ -30,3 +30,12 @@ https://www.youtube.com/watch?v=0jspaMLxBig
 
 Andrew Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman
 
+* Link on Peter Abeel, Andrew Ng first doctoral student, and Covariant:
+
+https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/
+
+
+And news of open source RAD algorithm for reinforcement learning:
+https://venturebeat.com/2020/05/02/uc-berkeley-researchers-open-source-rad-to-improve-any-reinforcement-learning-algorithm/
+
+
