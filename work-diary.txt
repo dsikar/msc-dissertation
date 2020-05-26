@@ -14,6 +14,11 @@ Comparison, search terms cnn self driving
 https://www.semanticscholar.org/search?q=cnn%20self%20driving&sort=relevance
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=cnn+self+driving&btnG=
 
+Francois Chollet - Keras: The Next Five Years
+https://www.youtube.com/watch?v=HBqCpWldPII
+
+Takeaways
+Use Keras, Tensorflow, PyTorch or SciPy to model.
 
 
 2020.04.03

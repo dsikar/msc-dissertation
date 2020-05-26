@@ -1,0 +1,32 @@
+Watched video
+
+https://www.youtube.com/watch?v=zYfzux7JKHE
+You and AI – the history, capabilities and frontiers of AI
+
+With Demis Hassabis and his takes on AI research.
+
+Good question at https://www.youtube.com/watch?v=zYfzux7JKHE&t=1h20m17
+
+Watched video
+https://www.youtube.com/watch?v=0e_uGa7ic74
+RAAIS 2017 - Raia Hadsell, Senior Research Scientist at DeepMind
+
+Citing 3 papers, related to robotics and reinforcement learning:
+
+https://arxiv.org/pdf/1611.03673.pdf
+LEARNING TO NAVIGATE
+IN COMPLEX ENVIRONMENTS
+
+
+https://arxiv.org/pdf/1703.01161.pdf
+FeUdal Networks for Hierarchical Reinforcement Learning
+
+https://arxiv.org/pdf/1610.05182.pdf
+Learning and Transfer of Modulated Locomotor
+Controllers
+Watched video:
+https://www.youtube.com/watch?v=0jspaMLxBig
+
+
+Andrew Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman
+
