@@ -1,0 +1,26 @@
+Watched video
+
+Watched Andrew Ng Coursera videos on logistic regression.
+
+Built intuition of log loss:
+https://github.com/dsikar/msc-dissertation/blob/master/notebooks/LogLoss.ipynb
+
+Computed derivative of log loss function, and sigmoid function with some pointers from:
+https://www.symbolab.com/solver/derivative-calculator/ 
+and
+https://medium.com/analytics-vidhya/derivative-of-log-loss-function-for-logistic-regression-9b832f025c2d
+and
+https://math.stackexchange.com/questions/2623822/how-to-get-the-loss-function-derivative
+
+Todo
+
+Do algebraic manipulations to reach:
+
+df/da * da/dz (-y/a + (1-y)/(1-a))*a(1-a) = a-y
+
+
+
+
+
+
+
