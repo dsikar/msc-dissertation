@@ -12,11 +12,19 @@ https://medium.com/analytics-vidhya/derivative-of-log-loss-function-for-logistic
 and
 https://math.stackexchange.com/questions/2623822/how-to-get-the-loss-function-derivative
 
-Todo
+Todo - done, results to follow
 
 Do algebraic manipulations to reach:
 
 df/da * da/dz (-y/a + (1-y)/(1-a))*a(1-a) = a-y
+
+2020.05.30
+
+Finished week 2 Andrew Ng Deep Learning - neural nets recap 
+
+Watched sections of Peter Abeel's https://www.youtube.com/watch?v=ID150Tl-MMw
+With some reference papers at t=3m18s w.r.t RL including robotics
+
 
 
 
