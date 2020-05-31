@@ -25,6 +25,9 @@ Finished week 2 Andrew Ng Deep Learning - neural nets recap
 Watched sections of Peter Abeel's https://www.youtube.com/watch?v=ID150Tl-MMw
 With some reference papers at t=3m18s w.r.t RL including robotics
 
+OpenAI deep RL hello world by Josh Achiam
+https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
+
 
 
 
